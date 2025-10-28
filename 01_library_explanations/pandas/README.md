@@ -3,6 +3,7 @@
 The foundation of almost all data analysis in Python.
 
 What it does:
+
 Helps you read, clean, manipulate, and analyze data easily.
 Think of it as a super powerful Excel inside Python.
 
