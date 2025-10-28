@@ -1,4 +1,4 @@
-🧪 5. scikit-learn (sklearn)
+# 5. scikit-learn (sklearn)
 
 The main library for machine learning and data modeling.
 
