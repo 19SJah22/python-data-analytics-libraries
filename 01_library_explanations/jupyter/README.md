@@ -1,4 +1,4 @@
-📝 7. jupyter
+# 7. jupyter
 
 The “notebook” environment you’ll use to run and display code + visuals together.
 
