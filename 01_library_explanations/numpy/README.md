@@ -3,10 +3,11 @@
 The engine behind numerical calculations.
 
 What it does:
+
 Works with large sets of numbers efficiently.
 pandas actually uses numpy underneath.
 
-• You’ll use it to:
+You’ll use it to:
 
 • Perform mathematical operations
 
