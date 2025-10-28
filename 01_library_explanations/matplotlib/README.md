@@ -1,4 +1,4 @@
-📊 3. matplotlib
+# 3. matplotlib
 
 The basic plotting and visualization library.
 
