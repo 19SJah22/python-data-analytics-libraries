@@ -6,7 +6,7 @@ What it does:
 Helps you read, clean, manipulate, and analyze data easily.
 Think of it as a super powerful Excel inside Python.
 
-• You’ll use it to:
+You’ll use it to:
 
 • Read .csv or .xlsx files
 
