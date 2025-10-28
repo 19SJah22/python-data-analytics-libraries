@@ -7,12 +7,12 @@ df = pd.read_csv("https://raw.githubusercontent.com/mwaskom/seaborn-data/master/
 print(df.head())
 
 # Select specific columns
-age_gender = df[["age", "gender"]]
-print(age_gender.head())
+age_sex = df[["age", "sex"]]
+print(age_sex.head())
 
 # Filter rows
 adults = df[df["age"] > 18]
 print(adults.head())
 
 # Group and summarize
-print(df.groupby("gender")["age"].mean())
+print(df.groupby("sex")["age"].mean())
