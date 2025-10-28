@@ -1,4 +1,4 @@
-🧮 6. plotly
+# 6. plotly
 
 Interactive and modern data visualizations.
 
