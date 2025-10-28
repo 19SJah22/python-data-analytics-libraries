@@ -1,4 +1,4 @@
-🎨 4. seaborn
+# 4. seaborn
 
 Beautiful, high-level charts built on top of matplotlib.
 
