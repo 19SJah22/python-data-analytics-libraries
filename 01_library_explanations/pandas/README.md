@@ -1,4 +1,5 @@
-🧩 1. pandas
+
+# 1. pandas
 
 The foundation of almost all data analysis in Python.
 
