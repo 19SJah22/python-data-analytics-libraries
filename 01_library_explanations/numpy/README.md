@@ -1,4 +1,4 @@
-🔢 2. numpy
+# 2. numpy
 
 The engine behind numerical calculations.
 
